@@ -1,0 +1,6 @@
+org\uv\programa06\HibernateUtil.class
+org\uv\programa06\IDAOGeneral.class
+org\uv\programa06\DetalleVenta.class
+org\uv\programa06\Venta.class
+org\uv\programa06\DAOVenta.class
+org\uv\programa06\Programa06.class
